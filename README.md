@@ -1,2 +1,3 @@
 # foo
 foo
+line three.
