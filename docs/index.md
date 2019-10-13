@@ -1,3 +1,5 @@
+[index2](index2.html)
+
 ## The foo project
 this is the foo project.
 
